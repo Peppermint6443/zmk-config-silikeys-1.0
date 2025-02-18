@@ -20,8 +20,8 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: my_keyboard_left
+    shield: silikeys_left
   - board: nice_nano_v2
-    shield: my_keyboard_right
+    shield: silikeys_right
   - board: nice_nano_v2
     shield: settings_reset
